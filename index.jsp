@@ -16,7 +16,7 @@
 			<p>Dima win!!</p>
 		<% } %>
 		<hr />
-		<p>Refresh to flip again.</p>
+		<p>Refresh to flip again</p>
 		
 		
 	</body>
